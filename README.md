@@ -1,5 +1,5 @@
 # golang-version
-golang编译加入git信息的demo
+a demo for golang to show build version
 # build
 ```shell
 chmod +x build.sh
