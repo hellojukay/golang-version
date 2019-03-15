@@ -11,4 +11,4 @@ chmod +x build.sh
 hellojukay@local golang-version (master) $ ./golang-version -v
 master-03cf576
 ```
-![img](demo.gif)
+![img](./demo.gif)
